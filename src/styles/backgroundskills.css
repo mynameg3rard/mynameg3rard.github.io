@@ -1,0 +1,38 @@
+.left-content {
+    float: left;
+    width: 58%;
+}
+
+.right-content {
+    float: right;
+    width: 30%;
+}
+
+.presentation-text h2 {
+    margin-bottom: 10px;
+}
+
+.presentation-text p {
+    line-height: 1.3;
+    margin-bottom: 10px;
+}
+
+.skills {
+    width: 100%;
+}
+
+.skills h2 {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.backgroundskills {
+    padding-bottom: 160px;
+    margin-bottom: 20px;
+}
+
+.backgroundskills ul {
+    list-style-type: "✓ ";
+    margin-left: 20px;
+}
+

@@ -1,0 +1,17 @@
+.contact h1 {
+    margin-bottom: 20px;
+}
+
+.contact a {
+    color: black;
+    font-weight: bold;
+}
+
+.contact p {
+    margin-top: 10px;
+}
+
+.contact {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}

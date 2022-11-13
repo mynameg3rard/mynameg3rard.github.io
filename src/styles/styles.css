@@ -1,0 +1,12 @@
+@import "./base.css";
+
+h3 {
+    margin-top: 10px;
+}
+
+html, body {
+    height: 100%;
+    background-color: lightgray;
+    margin: 0 auto;
+    scroll-padding-top: 5rem;
+}

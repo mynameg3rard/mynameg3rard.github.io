@@ -1,0 +1,36 @@
+.footer {
+    padding-top: 40px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: black;
+    color: white;
+}
+
+.row {
+    display: flex;
+    overflow: auto;
+}
+
+.column {
+    flex: 50%;
+}
+
+.name {
+    height: 100%;
+}
+
+.social-media-links-footer {
+    text-align: right;
+    margin-top: 10px;
+}
+
+.social-media-links-footer a {
+    margin-right: 10px;
+    color: white;
+}
+
+.social-media-links a:hover {
+    opacity: 0.5;
+    transition: 0.8s
+}

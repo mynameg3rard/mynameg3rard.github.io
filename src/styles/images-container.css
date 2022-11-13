@@ -1,0 +1,23 @@
+.content-box {
+    padding: 20px;
+    padding-left: 25px;
+    clear: both;
+}
+
+.images-area {
+    clear: both;
+}
+
+.row {
+    display: flex;
+    overflow: auto;
+}
+
+.column > img{
+    width: 100%;
+
+}
+
+.column {
+    flex: 33.33%;
+}
