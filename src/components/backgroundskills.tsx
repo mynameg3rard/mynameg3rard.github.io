@@ -10,7 +10,7 @@ export default function BackgroundSkills() {
                     <p>I've been playing with robotics, 3D printing and computers since I was a child. I have a good eye for photography, my main hobby, as well as playing the guitar on my spare time.</p>
                 </div>
             </div>
-cd
+
             <div className="right-content">
                 <div className="skills">
                     <h2>SKILLS.</h2>
